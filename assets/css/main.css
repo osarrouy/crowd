@@ -3940,3 +3940,9 @@ p.description-2 {
 .seminar-title {
     color: #2a2a2abb;
 }
+
+.logos-partenaires {
+	height: 70px;
+	display: inline-block;
+	opacity: 0.6;
+}
